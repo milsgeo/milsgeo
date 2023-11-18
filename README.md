@@ -14,7 +14,7 @@
 <div align="center"><h4>👋 Hi! I’m Milan</h1></div>
 
 ### :woman_technologist: About Me :
-- 💻 Former Kafka SRE Intern, LinkedIn <br>
+- 💻 Software Engineer, LinkedIn <br>
 - 👩‍🎓 Spring 23' Computer Science Grad at The University of Texas at Dallas
 - 📚 Bookworm
 - 🪴 Plant mom
